@@ -60,4 +60,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     SystemName=RMX3370
 
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.build.fingerprint=$(BUILD_FINGERPRINT)
+    ro.build.fingerprint=$(BuildFingerprint)
